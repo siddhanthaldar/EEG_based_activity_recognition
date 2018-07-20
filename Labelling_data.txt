@@ -1,0 +1,19 @@
+#N - Nothing, P - Push, L - Lift
+#sample_1.csv
+#WL = 150
+#'F8'
+#27 windows
+#N P P P P P P P N L L L L L L L P PorN P P N N N L L LorN LorN 
+
+#sample_2.csv
+#WL = 150
+#'F8'
+#15 windows
+#N P P P P P P N spike spike N N spike P P 
+
+#sample_3.csv
+#WL = 150
+#'F8'
+#46 windows
+#
+#N P P P P P P N N N P P P N N N N N L L L L L L L L L  L L L L L L L L L L L L L L N N P N N 
